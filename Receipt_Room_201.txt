@@ -1,0 +1,6 @@
+********** HOTEL BILL **********
+Guest: vip
+Room Number: 201
+Total Paid: $1500.0
+Date: Tue Apr 07 20:58:02 EAT 2026
+********************************
