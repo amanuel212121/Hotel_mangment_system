@@ -1,6 +1,8 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "mysql-connector-j-9.6.0.jar"
+        "mysql-connector-j-9.6.0.jar",
+        "c:\\xampp\\tomcat\\lib\\servlet-api.jar",
+        "c:\\Program Files\\Apache Software Foundation\\Tomcat 10.1\\lib\\servlet-api.jar"
     ]
 }
